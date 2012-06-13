@@ -3,7 +3,7 @@
  * Fish is a lightweight routing lirary for PHP 5.
  *
  * @copyright  Kevin Hamer 2012.
- * @author     Kevin Hamer [kh] <kevin.hamer@gmail.com>
+ * @author     Kevin Hamer [kh] <kevin@imarc.net>
  * @license    MIT
  *
  * @version    0.1.1
